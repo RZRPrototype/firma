@@ -1,0 +1,29 @@
+/*fuentes de letras importadas*/
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*ESTILOS GLOBALES*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Anta", sans-serif;
+}
+body{
+    background-color: #333;
+}
+/*ESTILOS PARA LAS DIFERENTES SECCIONES*/
+#Firma{
+    padding: 10px 100px 10px 100px;
+    /* IBA A PONER UNA IMAGEN DE FONDO PERO MEJOR NO 
+    background-image: url("../img/navbar.png");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    min-height: 280px;
+}
+p{
+    color: #fff;
+    font-size: 22px;
+}
+h2{
+    color: #d7e60c;
+    font-size: 40px;
+}
